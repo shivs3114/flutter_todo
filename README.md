@@ -152,3 +152,36 @@ This keeps the task-related logic separate from the UI.
 This project intentionally keeps the architecture simple because the objective is to demonstrate fundamental Flutter concepts, clean UI development, state management, and code organization without unnecessary complexity.
 
 
+## Source Code
+
+The complete Flutter source code is available on GitHub:
+
+**GitHub Repository:**
+` https://github.com/shivs3114/flutter_todo.git`
+
+The repository contains the complete Flutter project, including the `lib` source code, project configuration, dependencies, README, and platform-specific project files.
+
+## APK for Testing
+
+A release APK is provided for easy testing of the application.
+
+**Download APK:**
+`https://drive.google.com/file/d/1yTKwRj2c0L9fOAHfyZc4fq5o-XYIgTRE/view?usp=drive_link`
+
+### Installation
+
+1. Download the APK on an Android device.
+2. Open the downloaded APK.
+3. Allow installation from unknown sources if prompted.
+4. Install and launch the application.
+
+### APK Details
+
+* **Application:** Flutter To-Do App
+* **Build Type:** Release
+* **Framework:** Flutter
+* **State Management:** GetX
+* **Platform:** Android
+* **Purpose:** Practical assessment and testing
+
+
