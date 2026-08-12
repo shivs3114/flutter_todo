@@ -157,7 +157,7 @@ This project intentionally keeps the architecture simple because the objective i
 The complete Flutter source code is available on GitHub:
 
 **GitHub Repository:**
-` https://github.com/shivs3114/flutter_todo.git`
+`https://github.com/shivs3114/flutter_todo`
 
 The repository contains the complete Flutter project, including the `lib` source code, project configuration, dependencies, README, and platform-specific project files.
 
